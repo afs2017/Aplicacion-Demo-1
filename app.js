@@ -10,7 +10,7 @@ var users = require('./routes/users');
 var test = require('./routes/test');
 
 var app = express();
- //a ver k pasa
+ //mecachis la mar
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'hbs');
